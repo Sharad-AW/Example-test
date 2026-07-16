@@ -1,8 +1,1 @@
-//Adding a code on b1 branch
-
-class Webdriver ()
-{
-    public static void main(strng[] args)
-    
-Webdriver driver = new chromdriver("path")
-}
+//deleted syntax on main
